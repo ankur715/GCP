@@ -6,7 +6,7 @@
 ---  
 
 <p align="center">
-  <img width="1000" height="200" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_sheets.JPG"> 
+  <img width="1000" height="200" src="https://github.com/ankur715/GCP/blob/master/google_sheets_api/Capture_sheets.JPG"> 
 </p>
 
 #### _STEPS:_
@@ -20,9 +20,9 @@
 – Connect to the google sheet via python code  
 
 <p align="center">
-  <img width="800" height="450" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_API.JPG"> 
+  <img width="800" height="450" src="https://github.com/ankur715/GCP/blob/master/google_sheets_api/Capture_API.JPG"> 
 </p>
 
 <p align="center">
-  <img width="800" height="450" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_dashboard.JPG"> 
+  <img width="800" height="450" src="https://github.com/ankur715/GCP/blob/master/google_sheets_api/Capture_dashboard.JPG"> 
 </p>

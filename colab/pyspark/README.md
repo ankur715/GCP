@@ -1,5 +1,23 @@
 [Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
 <p align="center">
   <img width="800" height="400" src="https://miro.medium.com/max/655/1*vmiz8BGm1Xp6QnUSQBVVRg.png">
-<\p>
+</p>
 
+---
+
+### _STEPS:_  
+<p align="left">
+  <img width="600" height="300" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/colab%20install.JPG">
+</p>
+
+<p align="left">
+  <img width="800" height="400" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/runtime.JPG">
+</p>
+
+<p align="left">
+  <img width="800" height="400" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/read.JPG">
+</p>
+
+<p align="left">
+  <img width="800" height="400" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/spark%20content.JPG">
+</p>

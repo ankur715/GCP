@@ -7,17 +7,17 @@
 
 ### _STEPS:_  
 <p align="left">
-  <img width="600" height="300" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/colab%20install.JPG">
+  <img width="1000" height="500" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/colab%20install.JPG">
 </p>
 
 <p align="left">
-  <img width="800" height="400" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/runtime.JPG">
+  <img width="1000" height="500" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/runtime.JPG">
 </p>
 
 <p align="left">
-  <img width="800" height="400" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/read.JPG">
+  <img width="1000" height="500" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/read.JPG">
 </p>
 
 <p align="left">
-  <img width="800" height="400" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/spark%20content.JPG">
+  <img width="1000" height="500" src="https://github.com/ankur715/GCP/blob/master/colab/pyspark/spark%20content.JPG">
 </p>

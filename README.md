@@ -4,7 +4,7 @@
 
 ---
   
-->### ML + PySpark + Colab<-
+   ### ML + PySpark + Colab
 <p align="center">
   <img width="400" height="200" src="https://miro.medium.com/max/655/1*vmiz8BGm1Xp6QnUSQBVVRg.png">
 <\p>

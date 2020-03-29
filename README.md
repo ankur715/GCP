@@ -1,0 +1,2 @@
+# GCP
+colab, API, bigquery

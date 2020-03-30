@@ -1,13 +1,13 @@
 # BigQuery
 
 <p align="left">
-  <img width="900" height="300" src="https://github.com/ankur715/GCP/blob/master/bigquery/query.JPG">
+  <img width="1000" height="400" src="https://github.com/ankur715/GCP/blob/master/bigquery/query.JPG">
 </p>
 
 <p align="left">
-  <img width="400" height="150" src="https://github.com/ankur715/GCP/blob/master/bigquery/google%20sheets.JPG">
+  <img width="400" height="200" src="https://github.com/ankur715/GCP/blob/master/bigquery/google%20sheets.JPG">
 </p>
 
 <p align="left">
-  <img width="400" height="50" src="https://github.com/ankur715/GCP/blob/master/bigquery/google%20docs.JPG">
+  <img width="400" height="100" src="https://github.com/ankur715/GCP/blob/master/bigquery/google%20docs.JPG">
 </p>

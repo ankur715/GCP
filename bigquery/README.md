@@ -9,5 +9,5 @@
 </p>
 
 <p align="left">
-  <img width="400" height="100" src="https://github.com/ankur715/GCP/blob/master/bigquery/google%20docs.JPG">
+  <img width="400" height="150" src="https://github.com/ankur715/GCP/blob/master/bigquery/google%20docs.JPG">
 </p>

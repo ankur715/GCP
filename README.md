@@ -4,7 +4,7 @@
 
 ---
   
-   ### ML + PySpark + Colab:
+ ### ML + PySpark + Colab:
 <p align="left">
   <img width="400" height="200" src="https://miro.medium.com/max/655/1*vmiz8BGm1Xp6QnUSQBVVRg.png">
 </p>
@@ -12,4 +12,9 @@
 ### Google Sheets API + Python:
 <p align="left">
   <img width="800" height="400" src="https://i.ytimg.com/vi/cnPlKLEGR7E/maxresdefault.jpg">
+</p>
+
+### BigQuery:
+<p align="left">
+  <img width="1000" height="400" src="https://github.com/ankur715/GCP/blob/master/bigquery/query.JPG">
 </p>

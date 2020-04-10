@@ -3,9 +3,6 @@
 </p>
 
 ---
-### <a name="1"></a>Introduction to Python:
-<a href="#1">Introduction to Python:</a>
-
 
 ### ML + PySpark + Colab:
 <p align="left">

@@ -18,3 +18,6 @@
 <p align="left">
   <img width="1000" height="400" src="https://github.com/ankur715/GCP/blob/master/bigquery/query.JPG">
 </p>
+
+### [DataStudio](https://github.com/ankur715/GCP/blob/master/datastudio/recruitement):
+<p><img src="https://github.com/ankur715/GCP/blob/master/datastudio/recruitement/Recruitment_Dashboard.pdf"></p>

@@ -20,4 +20,4 @@
 </p>
 
 ### [DataStudio](https://github.com/ankur715/GCP/blob/master/datastudio/recruitement):
-<p><img src="https://github.com/ankur715/GCP/blob/master/datastudio/recruitement/Recruitment_Dashboard.pdf"></p>
+<p><img src="https://github.com/ankur715/GCP/blob/master/datastudio/recruitement/Recruitment_Dashboard.JPG"></p>

@@ -1,9 +1,10 @@
 ## ETL, BigQuery, Tableau
+
 ---
 
 ### Load to GCP BigQuery using Python
 <p align="left">
-  <img width="1000" height="500" src="https://github.com/ankur715/GCP/blob/master/BigQuery/load_GCP_using_Python.png">
+  <img width="600" height="500" src="https://github.com/ankur715/GCP/blob/master/BigQuery/load_GCP_using_Python.png">
 </p>
 
 ### BigQuery Data Querying

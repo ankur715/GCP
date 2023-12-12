@@ -4,7 +4,7 @@
 
 ### Load to GCP BigQuery using Python
 <p align="left">
-  <img width="800" height="400" src="https://github.com/ankur715/GCP/blob/master/BigQuery/loadData_GCP_using_Python.png">
+  <img width="750" height="350" src="https://github.com/ankur715/GCP/blob/master/BigQuery/loadData_GCP_using_Python.png">
 </p>
 
 <p align="left">

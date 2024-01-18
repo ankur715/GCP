@@ -16,7 +16,7 @@
 
 ### [BigQuery](https://github.com/ankur715/GCP/tree/master/bigquery):
 <p align="left">
-  <img width="1000" height="400" src="https://github.com/ankur715/GCP/blob/master/bigquery/query.JPG">
+  <img width="1000" height="400" src="https://github.com/ankur715/GCP/blob/master/BigQuery/GCP_BigQuery.png">
 </p>
 
 ### [DataStudio](https://github.com/ankur715/GCP/blob/master/datastudio/recruitement):

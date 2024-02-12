@@ -1,5 +1,5 @@
 ## ETL, BigQuery, Tableau
-## _Clothing Shopping data_
+## _Clothes Shopping data_
 ---
 
 ### Load to GCP BigQuery using Python
